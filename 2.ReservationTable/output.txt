@@ -1,0 +1,8 @@
+Forbiden latencies: 2 4 5 7 
+Permissible latencies: 1 3 6 8 
+collision vector: 1 0 1 1 0 1 0 
+collision points for latency 2(m,n) :  
+(1,6)
+(2,2)
+(3,3)
+(3,5)
